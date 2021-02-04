@@ -1,0 +1,22 @@
+.banner{
+  text-align: center;
+  background-image: url("../../images/coffee2.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+
+}
+.banner h1 {
+  margin: 0;
+  color: white;
+  font-size: 50px;
+}
+
+.banner p {
+  font-size: 30px;
+  color: white;
+  opacity: .8;
+  font-weight: lighter;
+}
